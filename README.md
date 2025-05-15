@@ -16,4 +16,5 @@ You need to provide raw cookies and raw headers. Then process_cookies_headers.py
 You need to provide url for the item to scrap review in shopee_url.txt
 
 
-Do contact me if you need any help :D
+# Miscellaneous
+Do contact me if this personal project violated any laws. Also can contact me if you need any help I didn't implement error handling :P
